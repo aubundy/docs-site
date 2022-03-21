@@ -88,7 +88,7 @@ nav:
     - List Instructions: list_instruction.md
   - BSC Developers:
     - Tools: smart-chain/developer/dev-tools.md
-    - Ecosystem: https://github.com/bnb-chain/bsc-develop-ecosystem
+    - Ecosystem: https://github.com/bnb-chain/bsc-ecosystem
     - Deploy:
       - Remix: smart-chain/developer/deploy/remix.md
       - Truffle: smart-chain/developer/deploy/truffle-new.md
